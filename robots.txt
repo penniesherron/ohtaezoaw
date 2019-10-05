@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zucahquaez.novitventures.com/sitemap.xml
